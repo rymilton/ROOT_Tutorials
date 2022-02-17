@@ -6,4 +6,4 @@
 5. Draw all three histograms. You can draw multiple histograms by using TH1::Draw(“same”) after the first histogram.
 6. Change the colors of the histograms using TH1::SetLineColor(). Colors are kBlue, kRed, etc.
 7. Change the y-axis range using TH1::SetAxisRange() to see the entirety of all three histograms. 
-     - Hint: The first histogram drawn should do this.
+     - Hint: The first histogram drawn should call this function.
