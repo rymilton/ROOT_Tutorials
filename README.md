@@ -30,3 +30,5 @@ The most direct way of learning ROOT is looking through the [manual](https://roo
 
 
 A helpful resource that you’ll likely need frequently is the [ROOT reference guide](https://root.cern/doc/master/index.html). Easier though is to just google the class you’re looking for (e.g. “[th1 root](https://root.cern.ch/doc/master/classTH1.html)”). These pages give a description of classes and their member functions. 
+
+This tutorial gives some practice assignments that increase in complexity and difficulty. Solutions are also provided -- .cpp files for code and .txt files for answering questions. If you have any questions, please feel free to contact me or shoot me an email at rmilton@ucla.edu 
