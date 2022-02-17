@@ -10,11 +10,11 @@ Download the latest version for your operating system and follow the isntallatio
 ## First use:
 
 Once everything is installed, try it out by typing root into the terminal. If everything is installed correctly you should see: root[0] 
-ROOT is now waiting for user input. **To exit: Type .q**
+ROOT is now waiting for user input. **To exit: Type `.q`**
 
 Typically, ROOT (similar to Python) is an interpreted language and reads code line-by-line instead of compiling it all together. So you can program within the terminal by passing in lines of code:
 
-root[0] int x = 1
+`root[0] int x = 1`
 
 root[1] int y = 5
 
