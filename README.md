@@ -26,7 +26,7 @@ ROOT should have outputted `(int) 6`. This is pretty tedious to do though and is
  
 ## Learning the details of ROOT
 
-The most direct way of learning ROOT is looking through the manual found here: https://root.cern/manual/
+The most direct way of learning ROOT is looking through the [manual](https://root.cern/manual/).
 
 
-A helpful resource that you’ll likely need frequently is the ROOT reference guide. You can find it by clicking “Reference” on the ROOT webpage. Easier though is to just google the class you’re looking for (e.g. “th1 root”). These pages give a description of classes and their member functions. 
+A helpful resource that you’ll likely need frequently is the [ROOT reference guide](https://root.cern/doc/master/index.html). Easier though is to just google the class you’re looking for (e.g. “[th1 root](https://root.cern.ch/doc/master/classTH1.html)”). These pages give a description of classes and their member functions. 
