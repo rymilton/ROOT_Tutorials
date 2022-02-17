@@ -7,11 +7,11 @@
       - Run the macro in ROOT using “.L”
   
 3. In the same file, make a new function called “void FunctionTwo()” and have it print “This is my second function.”
-- Try running the macro file in ROOT using “.x”. What is the output?
-- Now change the function name of “MyFirstMacro()” to “MyMacro() and try using “.x” again. What happens? (Change function name back afterwards)
-- Restart ROOT and obtain the correct output of FunctionTwo() using “.L”.
+      - Try running the macro file in ROOT using “.x”. What is the output?
+      - Now change the function name of “MyFirstMacro()” to “MyMacro() and try using “.x” again. What happens? (Change function name back afterwards)
+      - Restart ROOT and obtain the correct output of FunctionTwo() using “.L”.
 
 4. Finally, make a third function called “int Sum(int x, int y)” and have it return the sum of x and y
-            - Try calling the function with any two numbers within the ROOT terminal and verify it’s correct. 
+     - Try calling the function with any two numbers within the ROOT terminal and verify it’s correct. 
 
 Congrats! You now know how to create and run macros and functions in ROOT.
