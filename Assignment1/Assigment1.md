@@ -1,7 +1,7 @@
 # Assignment 1
-1. Read “First Steps with ROOT”, “ROOT architecture and components”, and “ROOT macros and shared libraries” under the ROOT Manual - Basics section
+## 1. Read “First Steps with ROOT”, “ROOT architecture and components”, and “ROOT macros and shared libraries” under the ROOT Manual - Basics section
 
-2. Create your first macro! 
+## 2. Create your first macro! 
   - Call it “MyFirstMacro.cpp”. Make the main function “void MyFirstMacro()” and have it print “Hello World!”.
   - Run the macro in ROOT using “.x”, then exit ROOT
   -Run the macro in ROOT using “.L”
