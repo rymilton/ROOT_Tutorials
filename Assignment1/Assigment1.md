@@ -12,6 +12,6 @@
 - Restart ROOT and obtain the correct output of FunctionTwo() using “.L”.
 
 4. Finally, make a third function called “int Sum(int x, int y)” and have it return the sum of x and y
-     - Try calling the function with any two numbers within the ROOT terminal and verify it’s correct. 
+            - Try calling the function with any two numbers within the ROOT terminal and verify it’s correct. 
 
 Congrats! You now know how to create and run macros and functions in ROOT.
