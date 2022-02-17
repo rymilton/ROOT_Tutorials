@@ -1,0 +1,35 @@
+2b.
+Terminal Commands:
+	root -l (-l removes splash/welcome message)
+	.x MyFirstMacro.cpp  (Can also simply do "root -l MyFirstMacro.cpp")
+	.q 
+2c.
+	root -l
+	.L MyFirstMacro.cpp
+	MyFirstMacro()
+
+3a.
+	root -l
+	.x MyFirstMacro.cpp
+	returns "Hello World!"
+3b.	
+	root -l
+	.x MyFirstMacro.cpp
+	Results in warning: 
+		"warning: Failed to call `MyFirstMacro()` to execute the macro.
+		Add this function or rename the macro. Falling back to `.L`.
+
+	Takeaway: ".x" calls the function with the same name as the macro file
+3c.
+	root -l
+	.L MyFirstMacro.cpp
+	FunctionTwo()
+
+4a.
+	root -l
+	.L MyFirstMacro.cpp
+	Sum(5, 2)
+	outputs "(int) 7"
+
+Note: ".x" always executes the function with the same name as the macro file AND loads all the functions.
+Can do ".x MyFirstMacro.cpp" -> Outputs "Hello World!"-> can then immediately do Sum(5,2) or even MyFirstMacro() again.
