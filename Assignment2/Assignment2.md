@@ -5,4 +5,5 @@
 4. Create a third histogram that is a clone of the histogram in (2). Then scale this new histogram by a factor of 2 using TH1::Scale().
 5. Draw all three histograms. You can draw multiple histograms by using TH1::Draw(“same”) after the first histogram.
 6. Change the colors of the histograms using TH1::SetLineColor(). Colors are kBlue, kRed, etc.
-7. Change the y-axis range using TH1::SetAxisRange() to see the entirety of all three histograms. Hint: The first histogram drawn should do this.
+7. Change the y-axis range using TH1::SetAxisRange() to see the entirety of all three histograms. 
+        -Hint: The first histogram drawn should do this.
