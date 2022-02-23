@@ -1,7 +1,7 @@
 # Assignment 3: Graphs and Fitting
 
 1. Read the sections on Graphs, Graphics, and Fitting in ROOT Manual - Functional Parts
-2. Generate 1000 random numbers between 0 and 2 $\pi$
+2. Generate 1000 random numbers between 0 and 2pi
      - gRandom->Rndm() generates a number between 0 and 1. This range can go from 0 to X by multiplying the output by X.
 
 3. Using these points, generate sin values with 'A sin(x)' and cos values with 'B cos(x) + C' where A, B, and C are values of your choice.
