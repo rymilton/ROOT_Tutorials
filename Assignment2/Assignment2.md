@@ -1,4 +1,4 @@
-# Assignment 2
+# Assignment 2: Histograms
 1. Read “Histograms” under the ROOT Manual - Functional parts section.
 2. Within a new macro, create and fill a histogram with 10,000 random Gaussian (Mean = 0, Sigma = 1) points using TH1::FillRandom().
 3. Create and fill another histogram with 10,000 random Gaussian points (Mean = 1, Sigma = 1) using TH1::Fill() and gRandom->Gaus().
