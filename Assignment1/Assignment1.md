@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 1: ROOT Macros
 1. Read “First Steps with ROOT”, “ROOT architecture and components”, and “ROOT macros and shared libraries” under the ROOT Manual - Basics section
  
 2. Create your first macro! 
