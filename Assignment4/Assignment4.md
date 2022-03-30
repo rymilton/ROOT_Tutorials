@@ -8,6 +8,7 @@
 	- In the end, you will have two overlapping Gaussians in a single histogram.
 3. Write this histogram into a ROOT file.
 4. Open the previous ROOT file and obtain the saved histogram.
-5. Fit the histogram with a defined function and try to retreive the parameters you input in step 2.
+	- You can look at the file in a file browser by opening ROOT and typing `TBrowser b`.
+6. Fit the histogram with a defined function and try to retreive the parameters you input in step 2.
 	- The fit function is a sum of two Gaussians, of course.
 	- Hint: To obtain the fit parameters, it is sometimes helpful to initialize the parameter values.  
